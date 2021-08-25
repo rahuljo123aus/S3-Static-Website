@@ -23,4 +23,5 @@ Steps
 7. Now the website is publicly accessibly.
 
 
-"`Resume Template license belongs to creative-cv`"
+`Resume Template license belongs to creative-cv` 
+`More info` - "License-FREE.txt"
