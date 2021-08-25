@@ -8,7 +8,7 @@
 
 Project Status: The project was developed and tested in different computer environments. 
 
-`Note`: The website is shut down to avoid further charges (personel choice) 
+`Note`: The website is shut down to avoid further charges (personal choice) 
 
 
 The following steps helps to deploy a static website very quickly using AWS.
