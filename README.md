@@ -1,14 +1,14 @@
 # Creating a static website using S3 on AWS
 
 
-• Cloud platform: AWS 
-• Tools used: Brackets (Text editor), S3 (AWS) 
+• Cloud platform: AWS <br>
+• Tools used: Brackets (Text editor), S3 (AWS) <br>
 • Languages: Html
 
 
-Project Status: The project was developed and test in different computer environments. 
+Project Status: The project was developed and tested in different computer environments. 
 
-Note: The website is shut down to avoid charges (personel choice) 
+`Note`: The website is shut down to avoid further charges (personel choice) 
 
 
 The following steps helps to deploy a static website very quickly using AWS.
