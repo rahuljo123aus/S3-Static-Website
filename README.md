@@ -27,5 +27,5 @@ Steps
 `More info` - "License-FREE.txt"
 
 
-![architecture image}(images/Architecture.jpg?raw=true)
+![architecture image}(https://github.com/rahuljo123aus/S3-Static-Website/blob/main/images/Architecture.jpg)
 
