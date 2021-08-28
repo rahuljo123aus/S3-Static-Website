@@ -25,3 +25,7 @@ Steps
 
 `Resume Template license belongs to creative-cv` 
 `More info` - "License-FREE.txt"
+
+
+![alt text}(https://github.com/rahuljo123aus/S3-Static-Website/blob/main/images/Architecture.jpg?raw=true)
+
